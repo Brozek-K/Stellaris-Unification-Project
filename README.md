@@ -2,4 +2,4 @@
 
 # Mods List
 
-[Dynamic Mod Menu] url=https://github.com/bcssov/dynamic_mod_menu
+Dynamic Mod Menu - https://github.com/bcssov/dynamic_mod_menu
