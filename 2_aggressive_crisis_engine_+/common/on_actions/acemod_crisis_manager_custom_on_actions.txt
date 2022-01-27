@@ -1,3 +1,0 @@
-# This = previous played country
-acemod_crisis_manager_on_played_country_swapped = {
-}
